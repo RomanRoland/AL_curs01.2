@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\universitate\AF_curs01.2\AF_curs01.2\bin\Debug\AF_curs01.2.exe.config
+C:\Users\LENOVO\Desktop\universitate\AF_curs01.2\AF_curs01.2\bin\Debug\AF_curs01.2.exe
+C:\Users\LENOVO\Desktop\universitate\AF_curs01.2\AF_curs01.2\bin\Debug\AF_curs01.2.pdb
+C:\Users\LENOVO\Desktop\universitate\AF_curs01.2\AF_curs01.2\obj\Debug\AF_curs01.2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\universitate\AF_curs01.2\AF_curs01.2\obj\Debug\AF_curs01._2.Form1.resources
+C:\Users\LENOVO\Desktop\universitate\AF_curs01.2\AF_curs01.2\obj\Debug\AF_curs01._2.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\universitate\AF_curs01.2\AF_curs01.2\obj\Debug\AF_curs01.2.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\universitate\AF_curs01.2\AF_curs01.2\obj\Debug\AF_curs01.2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\universitate\AF_curs01.2\AF_curs01.2\obj\Debug\AF_curs01.2.exe
+C:\Users\LENOVO\Desktop\universitate\AF_curs01.2\AF_curs01.2\obj\Debug\AF_curs01.2.pdb
